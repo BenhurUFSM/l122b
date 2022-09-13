@@ -5,7 +5,7 @@ ELC1065 DLSC/CT/UFSM\
 professor: Benhur Stein 
 ([benhur+l122b@inf.ufsm.br](mailto:benhur%2bl122b@inf.ufsm.br))\
 terças e quintas, 14h30\
-sala 334, prédio 7 (principal do CT)\
+sala 334, prédio 7 (principal do CT)
 
 ## Desenvolvimento da disciplina
 
