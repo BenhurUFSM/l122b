@@ -48,7 +48,7 @@ Quanto mais cedo conseguirmos nos comunicar para apontar problemas, expor sugest
 Os assuntos vistos em aula serão listados aqui.
 
 |    N |   data | assunto
-| ---: | :----: | :--------
+| ---: | -----: | :--------
 |    1 |  13set | [introdução]
 |    2 |  15set | 
 |      |  20set | feriado
