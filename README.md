@@ -49,7 +49,7 @@ Os assuntos vistos em aula serão listados aqui.
 
 |    N |   data | assunto
 | ---: | -----: | :--------
-|    1 |  13set | [introdução]
+|    1 |  13set | [introdução](Assuntos/01.md)
 |    2 |  15set | 
 |      |  20set | feriado
 |    3 |  22set | 
