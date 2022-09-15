@@ -110,7 +110,7 @@ Ver [aqui](https://www.ufsm.br/ementario/disciplinas/elc1065/).
 
 [Curso de programação C da UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf)
 
-[Apostila de programação da UFPR](http://www.inf.ufpr.br/cursos/ci055/apostila.pdf)
+[Apostila de programação da UFPR](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf)
 
 Ajude o robozinho a iluminar o mundo (ajuda no desenvolvimento de lógica de programação, fundamental para o conteúdo da disciplina) [lightbot](http://lightbot.com).
 
