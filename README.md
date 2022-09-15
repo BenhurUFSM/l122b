@@ -102,7 +102,7 @@ Os assuntos vistos em aula serão listados aqui.
 
 ## Ementa
 
-Ver [aqui](https://www.ufsm.br/ementario/disciplinas/elc1065/).
+Ver [aqui](https://www.ufsm.br/ementario/disciplinas/ELC1065/).
 
 ## Material Auxiliar
 
