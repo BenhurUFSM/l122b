@@ -9,7 +9,7 @@ sala 334, prédio 7 (principal do CT)
 
 ## Desenvolvimento da disciplina
 
-Os canais de comunicação entre o professor e os alunos são as aulas presenciais, esta página (<https://github.com/BenhurUFSM/l122a>), e-mail (ver acima). Caso queira conversar fora desses canais, manda um mail que marcamos.
+Os canais de comunicação entre o professor e os alunos são as aulas presenciais, esta página (<https://github.com/BenhurUFSM/l122b>), e-mail (ver acima). Caso queira conversar fora desses canais, manda um mail que marcamos.
 
 O e-mail pode ser usado para o envio de perguntas, exercícios, reclamações, sugestões, críticas e o que mais for, durante todo o período em que durar a disciplina.
 
