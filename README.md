@@ -50,7 +50,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    N |   data | assunto
 | ---: | -----: | :--------
 |    1 |  13set | [introdução](Assuntos/01.md)
-|    2 |  15set | 
+|    2 |  15set | [aula prática](Assuntos/02.md)
 |      |  20set | feriado
 |    3 |  22set | 
 |    4 |  27set |
@@ -98,6 +98,7 @@ Os assuntos vistos em aula serão listados aqui.
 
 |     N |    prazo | assunto
 | ----: | -------: | :-----------
+|    E0 | sem      | tem exercícios no final do texto das aulas 1 e 2
 
 ## Ementa
 
