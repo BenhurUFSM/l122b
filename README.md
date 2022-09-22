@@ -52,7 +52,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    1 |  13set | [introdução](Assuntos/01.md)
 |    2 |  15set | [aula prática](Assuntos/02.md)
 |      |  20set | feriado
-|    3 |  22set | 
+|    3 |  22set | [primeiro programa em C](Assuntos/03.md)
 |    4 |  27set |
 |    5 |  29set | 
 |    6 |   4out |
