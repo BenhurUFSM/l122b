@@ -54,7 +54,7 @@ Os assuntos vistos em aula serão listados aqui.
 |      |  20set | feriado
 |    3 |  22set | [primeiro programa em C](Assuntos/03.md)
 |    4 |  27set | [entrada de dados, float](Assuntos/04.md)
-|    5 |  29set | 
+|    5 |  29set | [implementação de números](Assuntos/05.md)
 |    6 |   4out |
 |    7 |   6out | 
 |      |  11out | véspera de feriado
