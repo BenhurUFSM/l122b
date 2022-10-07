@@ -56,41 +56,41 @@ Os assuntos vistos em aula serão listados aqui.
 |    4 |  27set | [entrada de dados, float](Assuntos/04.md)
 |    5 |  29set | [implementação de números](Assuntos/05.md)
 |    6 |   4out | [comando de seleção *if*](Assuntos/06.md)
-|    7 |   6out | 
-|      |  11out | véspera de feriado
-|    8 |  13out | 
-|    9 |  18out | 
-|   10 |  20out |
-|   11 |  25out | 
-|   12 |  27out |
-|      |   1nov | véspera de feriado
-|   13 |   3nov |
+|    7 |   6out | [operadores lógicos](Assuntos/07.md)
+|    8 |  11out | 
+|    9 |  13out | 
+|   10 |  18out | 
+|   11 |  20out |
+|   12 |  25out | 
+|   13 |  27out |
+|   14 |   1nov | 
+|   15 |   3nov |
 |      |   8nov | JAI
 |      |  10nov | JAI
 |      |  15nov | feriado
 |      |  17nov | SAINF
-|   14 |  22nov |
-|   15 |  24nov |
-|   16 |  29nov | 
-|   17 |   1dez | 
-|   18 |   6dez | 
+|   16 |  22nov |
+|   17 |  24nov |
+|   18 |  29nov | 
+|   19 |   1dez | 
+|   20 |   6dez | 
 |      |   8dez | feriado
-|   19 |  13dez | 
-|   20 |  15dez | 
+|   21 |  13dez | 
+|   22 |  15dez | 
 |      |  20dez | recesso
 |      |  22dez | recesso
 |      |  27dez | recesso
 |      |  29dez | recesso
-|   21 |   3jan | 
-|   22 |   5jan |
-|   23 |  10jan |
-|   24 |  12jan |
-|   25 |  17jan |
-|   26 |  19jan |
-|   27 |  24jan |
-|   28 |  26jan |
-|   29 |  31jan |
-|   30 |   2fev |
+|   23 |   3jan | 
+|   24 |   5jan |
+|   25 |  10jan |
+|   26 |  12jan |
+|   27 |  17jan |
+|   28 |  19jan |
+|   29 |  24jan |
+|   30 |  26jan |
+|   31 |  31jan |
+|   32 |   2fev |
 |      | 7ou9fev | exame
 
 
