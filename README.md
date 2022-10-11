@@ -99,6 +99,7 @@ Os assuntos vistos em aula serão listados aqui.
 |     N |    prazo | assunto
 | ----: | -------: | :-----------
 |    E0 | sem      | tem exercícios no final do texto das aulas 1 e 2
+|    T1 | 15out    | adivinhe o número (ver aula 8)
 
 ## Ementa
 
