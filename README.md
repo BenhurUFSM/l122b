@@ -58,7 +58,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    6 |   4out | [comando de seleção *if*](Assuntos/06.md)
 |    7 |   6out | [operadores lógicos](Assuntos/07.md)
 |    8 |  11out | [comandos de repetição *while* e *do..while*](Assuntos/08.md)
-|    9 |  13out | 
+|    9 |  13out | [comando de repetição *for*](Assuntos/09.md)
 |   10 |  18out | 
 |   11 |  20out |
 |   12 |  25out | 
