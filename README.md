@@ -60,7 +60,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    8 |  11out | [comandos de repetição *while* e *do..while*](Assuntos/08.md)
 |    9 |  13out | [comando de repetição *for*](Assuntos/09.md)
 |   10 |  18out | [funções](Assuntos/10.md)
-|   11 |  20out |
+|   11 |  20out | [funções](Assuntos/11.md)
 |   12 |  25out | 
 |   13 |  27out |
 |   14 |   1nov | 
