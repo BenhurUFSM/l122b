@@ -61,7 +61,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    9 |  13out | [comando de repetição *for*](Assuntos/09.md)
 |   10 |  18out | [funções](Assuntos/10.md)
 |   11 |  20out | [funções](Assuntos/11.md)
-|   12 |  25out | 
+|   12 |  25out | [exercícios](Assuntos/12.md)
 |   13 |  27out |
 |   14 |   1nov | 
 |   15 |   3nov |
