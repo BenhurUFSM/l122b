@@ -62,7 +62,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   10 |  18out | [funções](Assuntos/10.md)
 |   11 |  20out | [funções](Assuntos/11.md)
 |   12 |  25out | [exercícios](Assuntos/12.md)
-|   13 |  27out |
+|   13 |  27out | [exercícios](Assuntos/13.md)
 |   14 |   1nov | 
 |   15 |   3nov |
 |      |   8nov | JAI
@@ -101,6 +101,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    E0 | sem      | tem exercícios no final do texto das aulas 1 e 2
 |    T1 | 15out    | adivinhe o número (ver aula 8)
 |    T2 | 25out    | conte os primos (a11)
+|    T3 |          | xnay (a13)
 
 [Planilha](https://docs.google.com/spreadsheets/d/1dT7KSFpaZhz5jr8K4WDcy6NtLZcZmhx58wKHSp9CBww/edit?usp=sharing) com os trabalhos recebidos.
 
