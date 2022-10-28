@@ -62,7 +62,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   10 |  18out | [funções](Assuntos/10.md)
 |   11 |  20out | [funções](Assuntos/11.md)
 |   12 |  25out | [exercícios](Assuntos/12.md)
-|   13 |  27out | [exercícios](Assuntos/13.md)
+|   13 |  27out | [exercícios, comando switch](Assuntos/13.md)
 |   14 |   1nov | 
 |   15 |   3nov |
 |      |   8nov | JAI
