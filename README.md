@@ -64,7 +64,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   12 |  25out | [exercícios](Assuntos/12.md)
 |   13 |  27out | [exercícios, comando switch](Assuntos/13.md)
 |   14 |   1nov | [vetores](Assuntos/14.md)
-|   15 |   3nov |
+|   15 |   3nov | [exercícios](Assuntos/15.md)
 |      |   8nov | JAI
 |      |  10nov | JAI
 |      |  15nov | feriado
