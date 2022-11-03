@@ -75,22 +75,22 @@ Os assuntos vistos em aula serão listados aqui.
 |   19 |   1dez | 
 |   20 |   6dez | 
 |      |   8dez | feriado
-|   21 |  13dez | 
-|   22 |  15dez | 
+|      |  13dez | não tem aula
+|      |  15dez | não tem aula
 |      |  20dez | recesso
 |      |  22dez | recesso
 |      |  27dez | recesso
 |      |  29dez | recesso
-|   23 |   3jan | 
-|   24 |   5jan |
-|   25 |  10jan |
-|   26 |  12jan |
-|   27 |  17jan |
-|   28 |  19jan |
-|   29 |  24jan |
-|   30 |  26jan |
-|   31 |  31jan |
-|   32 |   2fev |
+|   21 |   3jan | 
+|   22 |   5jan |
+|   23 |  10jan |
+|   24 |  12jan |
+|   25 |  17jan |
+|   26 |  19jan |
+|   27 |  24jan |
+|   28 |  26jan |
+|   29 |  31jan |
+|   30 |   2fev |
 |      | 7ou9fev | exame
 
 
