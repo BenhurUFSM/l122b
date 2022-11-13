@@ -102,6 +102,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    T1 | 15out    | adivinhe o número (ver aula 8)
 |    T2 | 25out    | conte os primos (a11)
 |    T3 |          | xnay (a13)
+|    T4 |          | pirâmide etária (a15)
 
 [Planilha](https://docs.google.com/spreadsheets/d/1dT7KSFpaZhz5jr8K4WDcy6NtLZcZmhx58wKHSp9CBww/edit?usp=sharing) com os trabalhos recebidos.
 
