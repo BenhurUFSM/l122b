@@ -71,7 +71,7 @@ Os assuntos vistos em aula serão listados aqui.
 |      |  17nov | SAINF
 |   16 |  22nov | [referências](Assuntos/16.md)
 |   17 |  24nov | [exercícios]
-|   18 |  29nov | 
+|   18 |  29nov | [matrizes, strings](Assuntos/18.md)
 |   19 |   1dez | 
 |   20 |   6dez | 
 |      |   8dez | feriado
