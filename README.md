@@ -72,7 +72,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   16 |  22nov | [referências](Assuntos/16.md)
 |   17 |  24nov | [exercícios]
 |   18 |  29nov | [matrizes, strings](Assuntos/18.md)
-|   19 |   1dez | 
+|   19 |   1dez | [exercícios]
 |   20 |   6dez | 
 |      |   8dez | feriado
 |      |  13dez | não tem aula
@@ -103,6 +103,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    T2 | 25out    | conte os primos (a11)
 |    T3 | 29nov    | xnay (a13)
 |    T4 | 29nov    | pirâmide etária (a15)
+|    T5 | 4jan     | [senha/mastermind](Complementos/t5.md)
 
 [Planilha](https://docs.google.com/spreadsheets/d/1dT7KSFpaZhz5jr8K4WDcy6NtLZcZmhx58wKHSp9CBww/edit?usp=sharing) com os trabalhos recebidos.
 
