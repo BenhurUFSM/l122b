@@ -73,7 +73,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   17 |  24nov | [exercícios]
 |   18 |  29nov | [matrizes, strings](Assuntos/18.md)
 |   19 |   1dez | [exercícios]
-|   20 |   6dez | 
+|   20 |   6dez | [exercícios]
 |      |   8dez | feriado
 |      |  13dez | não tem aula
 |      |  15dez | não tem aula
@@ -81,7 +81,7 @@ Os assuntos vistos em aula serão listados aqui.
 |      |  22dez | recesso
 |      |  27dez | recesso
 |      |  29dez | recesso
-|   21 |   3jan | 
+|   21 |   3jan | [registros](Assuntos/21.md)
 |   22 |   5jan |
 |   23 |  10jan |
 |   24 |  12jan |
