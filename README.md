@@ -82,7 +82,7 @@ Os assuntos vistos em aula serão listados aqui.
 |      |  27dez | recesso
 |      |  29dez | recesso
 |   21 |   3jan | [registros](Assuntos/21.md)
-|   22 |   5jan |
+|   22 |   5jan | demo de tela
 |   23 |  10jan |
 |   24 |  12jan |
 |   25 |  17jan |
@@ -104,6 +104,7 @@ Os assuntos vistos em aula serão listados aqui.
 |    T3 | 29nov    | xnay (a13)
 |    T4 | 29nov    | pirâmide etária (a15)
 |    T5 | 4jan     | [senha/mastermind](Complementos/t5.md)
+|    T6 | 20jan    | [mastermind gráfico](Complementos/t6.md)
 
 [Planilha](https://docs.google.com/spreadsheets/d/1dT7KSFpaZhz5jr8K4WDcy6NtLZcZmhx58wKHSp9CBww/edit?usp=sharing) com os trabalhos recebidos.
 
