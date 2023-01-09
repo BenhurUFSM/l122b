@@ -15,3 +15,6 @@ A implementação dessas funções está no arquivo [tela.c](tela.c). Você não
 Para que as funções de desenho de texto funcionem, é necessário um arquivo com o desenho das letras. A implementação em tela.c usa para isso o arquivo [DejaVuSans.ttf](DejaVuSans.ttf), que deve estar presente.
 O arquivo [exemlo.c](exemplo.c) tem um pequeno programa que exemplifica o uso dessas funções.
 Para compilar um programa que use essas funções, deve-se compilar o programa, mais o arquivo tela.c e pedir para o compilador incluir diversas bibliotecas de função do allegro. Tem um comentário no início do arquivo exemplo.c com a linha de comando para compilar com o gcc.
+
+
+Caso não esteja conseguindo a execução local do programa, tenta fazer um fork do que coloquei no [replit](https://replit.com/@BenhurStein/testeallegro).
