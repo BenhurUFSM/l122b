@@ -83,7 +83,7 @@ Os assuntos vistos em aula serão listados aqui.
 |      |  29dez | recesso
 |   21 |   3jan | [registros](Assuntos/21.md)
 |   22 |   5jan | demo de tela
-|   23 |  10jan |
+|   23 |  10jan | [referências a registros; arquivos](Assuntos/23.md)
 |   24 |  12jan |
 |   25 |  17jan |
 |   26 |  19jan |
