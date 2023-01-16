@@ -84,7 +84,7 @@ Os assuntos vistos em aula serão listados aqui.
 |   21 |   3jan | [registros](Assuntos/21.md)
 |   22 |   5jan | demo de tela
 |   23 |  10jan | [referências a registros; arquivos](Assuntos/23.md)
-|   24 |  12jan |
+|   24 |  12jan | [alocação explícita de memória](Assuntos/24.md)
 |   25 |  17jan |
 |   26 |  19jan |
 |   27 |  24jan |
