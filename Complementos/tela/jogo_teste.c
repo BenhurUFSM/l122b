@@ -85,6 +85,7 @@ int sorteia_cor(void)
   int c;
   while (true) {
     c = rand() % 10;
+    // descomenta as linhas abaixo para o jogo ficar mais fácil
     //if (c == transparente) continue;
     //if (c == preto) continue;
     break;
@@ -92,9 +93,10 @@ int sorteia_cor(void)
   return c;
 }
 
+// cria um alvo com cor e pontos aleatórios na posição x,y
 alvo cria_alvo(int x, int y)
 {
-	circulo c = {{x, y}, 10};
+  circulo c = {{x, y}, 10};
   alvo a;
   a.figura = c;
   a.cor = sorteia_cor();
@@ -102,9 +104,10 @@ alvo cria_alvo(int x, int y)
   a.pontos = rand()%100; // entre 0 e 100
   a.bomba = (a.pontos == 0);  // 0 pontos é bomba!
 
-	return a;
+  return a;
 }
 
+// vai iniciar uma nova partida, inicializa o estado do jogo
 void init_jogo(jogo *j)
 {
   for (int i=0; i<25; i++) {
@@ -123,18 +126,23 @@ void init_jogo(jogo *j)
 void verif_entrada(jogo *j)
 {
   if (j->ativo && tela_rato_clicado()) {
+    // mouse foi clicado, vê se acertou algo
     ponto rato;
     rato.x = tela_rato_x_clique();
     rato.y = tela_rato_y_clique();
     int i = alvo_no_ponto(25, j->alvos, rato);
     if (i != -1 && j->alvos[i].vivo) {
+      // acertou um alvo vivo: mata o alvo, acumula os pontos, vê se era uma bomba
       j->alvos[i].vivo = false;
-      j->pontos += j->alvos[i].pontos;
       j->n_vivos--;
+      j->pontos += j->alvos[i].pontos;
       j->levei_bomba = j->alvos[i].bomba;
     }
   }
-  if (tela_tecla() == 'f') j->ativo = false;
+  // teclando 'f', desiste do jogo
+  if (tela_tecla() == 'f') {
+    j->ativo = false;
+  }
 }
 
 // muda o estado do jogo independente das ações do jogador
@@ -142,6 +150,7 @@ void progride_jogo(jogo *j)
 {
   double agora = relogio();
   if (j->ativo) {
+    // tem duas formas de o jogo não ficar mais ativo: acertar uma bomba ou acabar com os alvos
     if (j->levei_bomba) {
       // perde metade dos pontos
       j->pontos /= 2;
@@ -150,14 +159,16 @@ void progride_jogo(jogo *j)
     if (j->n_vivos == 0) {
       j->ativo = false;
     }
+    // se demorar muito para acertar um alvo, perde pontos
     if (agora - j->tempo > 1) {
-      // tá demorando demais, perde pontos
       j->pontos /= 1.5;
       j->tempo = agora;
     }
-  }
-  if (agora - j->tempo > 5) {
-    j->terminou = true;
+  } else {
+    // termina o jogo 5s depois de ficar inativo
+    if (agora - j->tempo > 5) {
+      j->terminou = true;
+    }
   }
 }
 
@@ -166,21 +177,27 @@ void progride_jogo(jogo *j)
 // desenha os alvos vivos do vetor de alvos
 void desenha_alvos(int n, alvo a[n])
 {
-	for (int i=0; i<n; i++) {
-		if (a[i].vivo) {
-		  circulo c = a[i].figura;
+  for (int i=0; i<n; i++) {
+    if (a[i].vivo) {
+      circulo c = a[i].figura;
       int cor = a[i].cor;
       tela_circulo(c.centro.x, c.centro.y, c.raio, 1, cor, cor);
-		}
-	}
+    }
+  }
 }
 
 // desenha os pontos e alvos restantes
-void desenha_pontos(int v, int p)
+void desenha_pontos(int vivos, int pontos)
 {
   char txt[20];
-  sprintf(txt, "v:%d pt:%d", v, p);
+  sprintf(txt, "v:%d pt:%d", vivos, pontos);
   tela_texto_esq(150, 170, 16, branco, txt);
+}
+
+// desenha o cursor do mouse
+void desenha_cursor(void)
+{
+  tela_circulo(tela_rato_x(), tela_rato_y(), 2, 1, vermelho, branco);
 }
 
 // desenha a tela do jogo
@@ -188,7 +205,7 @@ void desenha_jogo(jogo *j)
 {
   desenha_alvos(25, j->alvos);
   desenha_pontos(j->n_vivos, j->pontos);
-  tela_circulo(tela_rato_x(), tela_rato_y(), 2, 1, vermelho, branco);
+  desenha_cursor();
   if (j->levei_bomba) {
     tela_texto(85, 100, 20, vermelho, "BADABUM");
   }
@@ -216,10 +233,10 @@ bool quer_jogar_de_novo(void)
   char tecla = 0;
   while (tecla == 0) {
     tecla = tela_tecla();
-    double t = 10 - (relogio() - inicio);
-    if (t <= 0) break;
+    double t = 10 - (relogio() - inicio); // quanto tempo ainda tem para decidir
+    if (t <= 0) break;  // acabou o prazo de 10s
     int cor = branco;
-    if (t < 2) cor = vermelho;
+    if (t < 2) cor = vermelho;  // falta menos de 2s, desenha em vermelho
     tela_texto(85, 90, 20, cor, "tecle S");
     char txt[10];
     sprintf(txt, "%.1f", t);
@@ -233,7 +250,7 @@ bool quer_jogar_de_novo(void)
 int main()
 {
   srand(time(0));
-	tela_inicio(170, 200, "x");
+  tela_inicio(170, 200, "x");
   do {
     partida();
   } while (quer_jogar_de_novo());
