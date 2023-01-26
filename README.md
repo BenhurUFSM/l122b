@@ -110,6 +110,32 @@ Os assuntos vistos em aula serão listados aqui.
 
 [Planilha](https://docs.google.com/spreadsheets/d/1dT7KSFpaZhz5jr8K4WDcy6NtLZcZmhx58wKHSp9CBww/edit?usp=sharing) com os trabalhos recebidos.
 
+#### Entrega final
+
+Envie um mail com:
+- versão final do último trabalho implementado
+- texto com a nota de auto-avaliação, com justificativa
+
+A nota deve medir duas coisas, mais ou menos com mesmo peso: os trabalhos (todos) (foi feito o que foi pedido? funciona? serviu para aprender os conceitos relacionados?) e a aprendizagem do conteúdo da disciplina (coloquei 10 conceitos abaixo, dá pra pensar neles +- com o mesmo peso).
+Para cada conceito, pensa se sabe o que é, se sabe pra que serve, se sabe como usar.
+
+Os principais conceitos da disciplina são:
+- tipos básicos de dados (char, int, bool, float, etc)
+- variáveis
+- entrada e saída no terminal (scanf, printf)
+- seleção (if, switch)
+- laços (for, while, do-while)
+- funções (modularização, passagem de parâmetros por valor e referência)
+- vetores e strings
+- registros
+- arquivos
+- alocação dinâmica de memória
+
+
+Depois de receber o mail, envio uma resposta para marcar horário da conversa.
+
+Em caso de desespero, dá para enviar até segunda de manhã.
+
 ## Ementa
 
 Ver [aqui](https://www.ufsm.br/ementario/disciplinas/ELC1065/).
