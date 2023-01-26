@@ -114,7 +114,7 @@ Os assuntos vistos em aula serão listados aqui.
 
 Envie um mail com:
 - versão final do último trabalho implementado
-- texto com a nota de auto-avaliação, com justificativa
+- texto com a nota de auto-avaliação (0 a 10), com justificativa
 
 A nota deve medir duas coisas, mais ou menos com mesmo peso: os trabalhos (todos) (foi feito o que foi pedido? funciona? serviu para aprender os conceitos relacionados?) e a aprendizagem do conteúdo da disciplina (coloquei 10 conceitos abaixo, dá pra pensar neles +- com o mesmo peso).
 Para cada conceito, pensa se sabe o que é, se sabe pra que serve, se sabe como usar.
