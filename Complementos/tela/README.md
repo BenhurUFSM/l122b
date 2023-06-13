@@ -13,7 +13,7 @@ Ela possui funções para (olhe o conteúdo do arquivo para mais detalhes):
 
 A implementação dessas funções está no arquivo [tela.c](tela.c). Você não precisa olhar esse arquivo. Para implementá-las, é usada a biblioteca allegro, que deve estar disponível para que o programa possa ser compilado.
 Para que as funções de desenho de texto funcionem, é necessário um arquivo com o desenho das letras. A implementação em tela.c usa para isso o arquivo [DejaVuSans.ttf](DejaVuSans.ttf), que deve estar presente.
-O arquivo [exemlo.c](exemplo.c) tem um pequeno programa que exemplifica o uso dessas funções.
+O arquivo [exemplo.c](exemplo.c) tem um pequeno programa que exemplifica o uso dessas funções.
 Para compilar um programa que use essas funções, deve-se compilar o programa, mais o arquivo tela.c e pedir para o compilador incluir diversas bibliotecas de função do allegro. Tem um comentário no início do arquivo exemplo.c com a linha de comando para compilar com o gcc.
 
 
